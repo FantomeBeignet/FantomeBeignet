@@ -18,6 +18,16 @@ I'm a young dude studying IT engineering at 📍 TELECOM Nancy, France. I'm main
 <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
 </div>
 
+## 🚧 Projects
+
+### FTC : A file finder implemented in C
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FantomeBeignet&repo=ftc&theme=github_dark)](https://github-readme-stats.vercel.app/api/pin/?username=FantomeBeignet&repo=ftc&theme=github_dark)
+
+### Claudle : A Wordle clone made with Flask and ReactJS
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FantomeBeignet&repo=claudle&theme=github_dark)](https://github-readme-stats.vercel.app/api/pin/?username=FantomeBeignet&repo=claudle&theme=github_dark)
+
 ## 📊 Stats
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=fantomebeignet&show_icons=true&theme=github_dark)
