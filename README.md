@@ -1,4 +1,5 @@
-# Hello there, I'm Tom 👋
+<p align="center"><img src="pic.png" width="200"/></p>
+<h1 align="center">Hey, I'm Tom <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 ## 👤 About me
 
