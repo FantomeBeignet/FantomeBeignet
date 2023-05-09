@@ -33,4 +33,4 @@ I'm a young dude studying IT engineering at 📍 TELECOM Nancy, France. I'm main
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=fantomebeignet&show_icons=true&theme=github_dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fantomebeignet&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fantomebeignet&layout=compact&theme=github_dark&hide=lua&exclude_repo=dotfiles)](https://github.com/anuraghazra/github-readme-stats)
